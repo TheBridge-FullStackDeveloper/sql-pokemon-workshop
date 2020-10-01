@@ -11,7 +11,7 @@ Hostname:
 ec2-34-229-137-164.compute-1.amazonaws.com
 
 Port:
-3306
+25001
 
 Username:
 root
