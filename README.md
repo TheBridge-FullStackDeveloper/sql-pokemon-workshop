@@ -8,16 +8,16 @@ Connection name:
 Taller SQL The Bridge
 
 Hostname:
-ec2-34-229-137-164.compute-1.amazonaws.com
+localhost
 
 Port:
-25001
+3306
 
 Username:
 root
 
 Password:
-test
+root
 
 ### SQL (Structure Query Language - Lenguaje de consultas estructurado)
 
